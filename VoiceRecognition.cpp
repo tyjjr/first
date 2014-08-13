@@ -12,7 +12,7 @@ http://www.dfrobot.com.cn
 #include "utility/PinMap.h"
 #include "VoiceRecognition.h"
 #include "Arduino.h"
-
+/*================================*/
 uint8_t g_Mic;
 int RSTB=9;//RSTB引脚定义
 int CS=4;//RSTB引脚定义
